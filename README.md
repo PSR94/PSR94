@@ -2,7 +2,7 @@
 This README is optimized for a GitHub profile-style landing page.
 Profile refresh marker: 2026-04-18.
 Important: GitHub only shows a profile README automatically when the repository
-name exactly matches the username: PavanSai-Rayalla.
+name exactly matches the username: PSR94.
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:1d4ed8,70:06b6d4,100:14b8a6&text=Pavan%20Sai%20R&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Senior%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Agentic%20AI%20%26%20GenAI&descAlignY=58&descSize=18" />
@@ -14,10 +14,10 @@ name exactly matches the username: PavanSai-Rayalla.
   <a href="https://www.linkedin.com/in/pavansair/">
     <img src="https://img.shields.io/badge/LinkedIn-pavansair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/PavanSai-Rayalla">
-    <img src="https://img.shields.io/badge/GitHub-PavanSai--Rayalla-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/PSR94">
+    <img src="https://img.shields.io/badge/GitHub-PSR94-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PavanSai-Rayalla&style=for-the-badge&color=2563eb&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PSR94&style=for-the-badge&color=2563eb&label=Profile+Views" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ I design and ship production AI systems that combine agent orchestration, retrie
 
 Most of my highest-impact work is inside enterprise environments and is not public. This profile highlights the architecture patterns, technical depth, and public experiments that best represent how I build.
 
-> If you want this README to appear at the top of your GitHub profile, the repository name must be exactly `PavanSai-Rayalla`.
+> If you want this README to appear at the top of your GitHub profile, the repository name must be exactly `PSR94`.
 
 ### What I Build
 
@@ -177,27 +177,27 @@ flowchart LR
 
 | Project | Description |
 | --- | --- |
-| [knowledge_graph_rag](https://github.com/PavanSai-Rayalla/knowledge_graph_rag) | Local-first evidence graph RAG app using Neo4j and explicit evidence references |
-| [PavanSai-Rayalla](https://github.com/PavanSai-Rayalla/PavanSai-Rayalla) | My GitHub profile repository, custom README, and profile automation setup |
+| [knowledge_graph_rag](https://github.com/PSR94/knowledge_graph_rag) | Local-first evidence graph RAG app using Neo4j and explicit evidence references |
+| [PSR94](https://github.com/PSR94/PSR94) | My GitHub profile repository, custom README, and profile automation setup |
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PavanSai-Rayalla&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=PavanSai-Rayalla&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=PSR94&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanSai-Rayalla&bg_color=00000000&color=60a5fa&line=14b8a6&point=1d4ed8&area=true&hide_border=true" width="98%" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=60a5fa&line=14b8a6&point=1d4ed8&area=true&hide_border=true" width="98%" alt="Activity graph" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PavanSai-Rayalla/PavanSai-Rayalla/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PavanSai-Rayalla/PavanSai-Rayalla/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PavanSai-Rayalla/PavanSai-Rayalla/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 

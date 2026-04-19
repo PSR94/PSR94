@@ -19,7 +19,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: PavanSai-Rayalla
+          github_user_name: PSR94
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%2314b8a6&color_dots=%23dbeafe,%2393c5fd,%2360a5fa,%232563eb,%230f172a
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2314b8a6&color_dots=%230f172a,%231d4ed8,%2306b6d4,%2314b8a6,%23e2e8f0
