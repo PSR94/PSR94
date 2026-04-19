@@ -1,5 +1,6 @@
 <!--
 This README is optimized for a GitHub profile-style landing page.
+Profile refresh marker: 2026-04-18.
 Important: GitHub only shows a profile README automatically when the repository
 name exactly matches the username: PavanSai-Rayalla.
 -->
