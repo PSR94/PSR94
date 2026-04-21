@@ -175,18 +175,33 @@
 ## GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=334155&ring=F97316&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=CBD5E1&ring=F97316&fire=F97316&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0D9488&sideLabels=475569&dates=475569" />
-    <img height="170" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=334155&ring=F97316&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
-  </picture>
+  A cleaner view of contribution rhythm, streaks, and activity momentum.
 </p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PSR94&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PSR94&theme=github" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PSR94&theme=github_dark" alt="GitHub stats summary" />
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PSR94&theme=github_dark&utcOffset=-5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PSR94&theme=github&utcOffset=-5" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PSR94&theme=github_dark&utcOffset=-5" alt="Productive time summary" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=CBD5E1&line=F97316&point=14B8A6&area=true&area_color=1f2937&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=334155&line=F97316&point=0D9488&area=true&area_color=e2e8f0&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=CBD5E1&line=F97316&point=14B8A6&area=true&area_color=1f2937&hide_border=true" width="98%" alt="Activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E2E8F0&line=38BDF8&point=F97316&area=true&area_color=082F49&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=334155&line=0284C7&point=EA580C&area=true&area_color=E0F2FE&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E2E8F0&line=38BDF8&point=F97316&area=true&area_color=082F49&hide_border=true" width="98%" alt="Activity graph" />
   </picture>
 </p>
 
