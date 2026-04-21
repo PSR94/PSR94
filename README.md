@@ -1,9 +1,5 @@
 <!-- HEADER BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,45:dcfce7,100:ffedd5&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=0f172a&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18&descColor=334155" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18" alt="Pavan Sai R banner" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18" />
 
 <!-- BADGES ROW -->
 <p align="center">
@@ -21,11 +17,7 @@
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Building+AI+systems+that+hold+up+in+real+workflows;Grounded+retrieval%2C+agent+orchestration%2C+and+usable+interfaces;From+prototype+energy+to+production-minded+engineering" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Building+AI+systems+that+hold+up+in+real+workflows;Grounded+retrieval%2C+agent+orchestration%2C+and+usable+interfaces;From+prototype+energy+to+production-minded+engineering&background=FFFFFF00" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Building+AI+systems+that+hold+up+in+real+workflows;Grounded+retrieval%2C+agent+orchestration%2C+and+usable+interfaces;From+prototype+energy+to+production-minded+engineering" alt="Typing SVG"/>
-    </picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Building+AI+systems+that+hold+up+in+real+workflows;Grounded+retrieval%2C+agent+orchestration%2C+and+usable+interfaces;From+prototype+energy+to+production-minded+engineering" alt="Typing SVG"/>
   </a>
 </p>
 
