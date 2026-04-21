@@ -155,8 +155,6 @@
   </tr>
 </table>
 
-<br/>
-
 <table width="66%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
