@@ -176,9 +176,9 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=273449&ring=14B8A6&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F59E0B&sideLabels=A3B1C6&dates=transparent&card_width=720&card_height=230" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=D7DEE8&ring=0F766E&fire=EA580C&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0F766E&sideLabels=475569&dates=transparent&card_width=720&card_height=230" />
-        <img height="220" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=273449&ring=14B8A6&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F59E0B&sideLabels=A3B1C6&dates=transparent&card_width=720&card_height=230" alt="GitHub streak" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=273449&ring=14B8A6&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F59E0B&sideLabels=A3B1C6&dates=A3B1C6" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=D7DEE8&ring=0F766E&fire=EA580C&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0F766E&sideLabels=475569&dates=64748B" />
+        <img height="186" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=273449&ring=14B8A6&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F59E0B&sideLabels=A3B1C6&dates=A3B1C6" alt="GitHub streak" />
       </picture>
     </td>
   </tr>
