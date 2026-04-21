@@ -176,11 +176,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=14B8A6&text_color=CBD5E1&border_color=00000000&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=0D9488&text_color=334155&border_color=00000000&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=14B8A6&text_color=CBD5E1&border_color=00000000&rank_icon=github" alt="GitHub stats" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=334155&ring=F97316&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=CBD5E1&ring=F97316&fire=F97316&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0D9488&sideLabels=475569&dates=475569" />
     <img height="170" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=334155&ring=F97316&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
