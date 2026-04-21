@@ -1,36 +1,56 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/main/assets/banner.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/main/assets/banner-light.svg" />
-    <img src="https://raw.githubusercontent.com/PSR94/PSR94/main/assets/banner.svg" alt="Pavan Sai R banner" width="100%" />
-  </picture>
-</p>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18" />
 
+<!-- BADGES ROW -->
 <p align="center">
-  <a href="mailto:pavansair.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-E5E7EB?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827&color=111827" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/pavansair/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-E5E7EB?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827&color=111827" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/PSR94?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-E5E7EB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=111827" alt="Repositories" />
+    <img src="https://img.shields.io/badge/GitHub-Public%20Work-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=PSR94&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pavansair/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-f97316?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
+<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PSR94&color=F97316&style=flat-square" alt="Profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Building+AI+systems+that+hold+up+in+real+workflows;Grounded+retrieval%2C+agent+orchestration%2C+and+usable+interfaces;From+prototype+energy+to+production-minded+engineering" alt="Typing SVG"/>
+  </a>
 </p>
 
-<p align="center">
-  <strong>Designing AI systems that are grounded, usable, and built for real work.</strong>
-</p>
+---
 
-## About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
 
-I enjoy building AI products that need to be more than a demo. The interesting part for me is turning model behavior into something dependable: retrieval that can be inspected, orchestration that can be evaluated, and interfaces that people can actually use without fighting the system.
-
-Most of my day-to-day work lives inside enterprise environments, so this profile focuses on the parts I can share publicly: design patterns, public projects, and the kinds of systems I like to build when AI, backend engineering, and product thinking meet.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 Pavan Sai R</h3>
+      <p>
+        <i>AI/ML engineer focused on agentic systems, grounded retrieval, and full-stack product delivery</i>
+      </p>
+      <p>
+        I like building AI applications that are useful beyond a demo. The work that excites me most sits between model capability and product reliability: retrieval that can be trusted, orchestration that can be evaluated, and interfaces that make complex systems feel simple to use.
+      </p>
+      <p>
+        My public GitHub is where I share the parts of that work I can make visible: experiments, implementation patterns, and projects that reflect how I think about AI systems end to end.
+      </p>
+      <br/>
+      <b>🚀 Current Focus</b>
+      <ul>
+        <li>Building agent-driven workflows that combine structured tools, retrieval, and human review</li>
+        <li>Designing RAG systems with better grounding, evidence visibility, and cleaner answer quality</li>
+        <li>Creating full-stack AI apps where the backend, UX, and operational story fit together well</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Developer"/>
+    </td>
+  </tr>
+</table>
 
 ## What I Like Building
 
