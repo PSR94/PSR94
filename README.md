@@ -174,30 +174,38 @@
 
 ## GitHub Activity
 
-<p align="center">
-  A cleaner view of contribution rhythm and activity flow.
-</p>
+<table width="88%" align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=273449&ring=14B8A6&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F59E0B&sideLabels=A3B1C6&dates=A3B1C6" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=D7DEE8&ring=0F766E&fire=EA580C&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0F766E&sideLabels=475569&dates=64748B" />
+        <img height="186" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=273449&ring=14B8A6&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F59E0B&sideLabels=A3B1C6&dates=A3B1C6" alt="GitHub streak" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=1F2937&ring=F97316&fire=F97316&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=CBD5E1&ring=EA580C&fire=EA580C&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0284C7&sideLabels=475569&dates=475569" />
-    <img height="180" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=1F2937&ring=F97316&fire=F97316&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
-  </picture>
-</p>
+<table width="96%" align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E5E7EB&line=14B8A6&point=F59E0B&area=true&area_color=0F2E2E&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=334155&line=0F766E&point=EA580C&area=true&area_color=DCFCE7&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E5E7EB&line=14B8A6&point=F59E0B&area=true&area_color=0F2E2E&hide_border=true" width="100%" alt="Activity graph" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E2E8F0&line=38BDF8&point=F97316&area=true&area_color=082F49&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=334155&line=0284C7&point=EA580C&area=true&area_color=E0F2FE&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E2E8F0&line=38BDF8&point=F97316&area=true&area_color=082F49&hide_border=true" width="98%" alt="Activity graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<table width="92%" align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
+        <img width="100%" alt="github contribution snake animation" src="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
