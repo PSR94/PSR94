@@ -157,7 +157,7 @@
 
 <br/>
 
-<table width="100%">
+<table width="66%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="88" alt="Snowflake" /><br/><br/>
