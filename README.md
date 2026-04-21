@@ -135,7 +135,7 @@
 
 ## Certifications
 
-<table width="100%">
+<table width="84%" align="center">
   <tr>
     <td width="33.33%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/anthropic/D4A373" width="88" alt="Anthropic" /><br/><br/>
