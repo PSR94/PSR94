@@ -29,20 +29,20 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        <i>AI/ML engineer focused on agentic systems, grounded retrieval, and full-stack product delivery</i>
+        <i>AI/ML engineer building agentic systems, grounded retrieval, and product-shaped software.</i>
       </p>
       <p>
-        I like building AI applications that are useful beyond a demo. The work that excites me most sits between model capability and product reliability: retrieval that can be trusted, orchestration that can be evaluated, and interfaces that make complex systems feel simple to use.
+        I care most about the part of AI engineering where model capability meets system design. The goal is not just to make something impressive once, but to make it dependable, understandable, and genuinely useful inside a real workflow.
       </p>
       <p>
-        My public GitHub is where I share the parts of that work I can make visible: experiments, implementation patterns, and projects that reflect how I think about AI systems end to end.
+        My public GitHub is where I share that thinking in visible form: retrieval systems, orchestration patterns, full-stack AI applications, and experiments that show how I approach end-to-end product delivery.
       </p>
       <br/>
-      <b>🚀 Current Focus</b>
+      <b>🚀 Right Now</b>
       <ul>
-        <li>Building agent-driven workflows that combine structured tools, retrieval, and human review</li>
-        <li>Designing RAG systems with better grounding, evidence visibility, and cleaner answer quality</li>
-        <li>Creating full-stack AI apps where the backend, UX, and operational story fit together well</li>
+        <li>Designing agent workflows that combine tools, retrieval, and explicit decision paths</li>
+        <li>Building RAG systems with stronger grounding, clearer evidence, and better output quality</li>
+        <li>Shaping AI products where backend logic, UX, and operational behavior all line up cleanly</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -51,27 +51,27 @@
   </tr>
 </table>
 
-## What I Like Building
+## Build Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <strong>Agent Systems</strong><br/>
-      Tool-aware workflows, human review loops, guarded orchestration, and structured evaluation instead of blind prompt chaining.
+      Tool-aware orchestration, human review points, guardrails, and evaluable workflows instead of loose prompt chaining.
     </td>
     <td width="50%" valign="top">
-      <strong>Retrieval and Knowledge</strong><br/>
-      RAG pipelines, graph-enriched retrieval, answer grounding, and citation-first experiences that make outputs easier to trust.
+      <strong>Retrieval + Knowledge</strong><br/>
+      RAG pipelines, graph-enriched retrieval, answer grounding, and citation-aware responses that are easier to trust.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Full-Stack AI Products</strong><br/>
-      Interfaces and APIs that make AI features feel native to the product instead of bolted on after the fact.
+      Interfaces and APIs that make AI feel like part of the product, not an add-on layered over it.
     </td>
     <td width="50%" valign="top">
-      <strong>Cloud and Platform Work</strong><br/>
-      Production-minded delivery across containers, workflows, infrastructure, observability, and data platforms.
+      <strong>Platform + Delivery</strong><br/>
+      Production-minded work across containers, workflows, infrastructure, observability, and data systems.
     </td>
   </tr>
 </table>
@@ -82,30 +82,30 @@
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/PSR94/citadel">citadel</a></strong><br/>
-      Enterprise retrieval intelligence platform built around evidence-first document understanding, hybrid retrieval, graph-aware expansion, reranking, and strict citations.
+      Retrieval intelligence platform focused on evidence-first document understanding, hybrid search, reranking, graph-aware context, and strict citations.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/PSR94/ContextMesh">ContextMesh</a></strong><br/>
-      Knowledge intelligence platform for enterprise documents that combines multiple retrieval paths, explicit question routing, and grounded answers with transparent evidence.
+      Knowledge platform for enterprise documents that combines multiple retrieval paths, explicit question routing, and grounded answers with transparent evidence.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/PSR94/knowledge_graph_rag">knowledge_graph_rag</a></strong><br/>
-      Local-first evidence graph RAG application using Neo4j and explicit evidence references for answer grounding.
+      Local-first graph RAG application using Neo4j and explicit evidence references for grounded answer generation.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/PSR94/helios">helios</a></strong><br/>
-      Governed AI analytics engineering platform for semantic NL-to-SQL, trust-aware execution, and explainable insights.
+      Governed analytics engineering platform for semantic NL-to-SQL, trust-aware execution, and explainable insights.
     </td>
   </tr>
 </table>
 
 ## Working Style
 
-- I prefer systems that are grounded, inspectable, and measurable over AI that only looks good in a happy-path demo.
-- I care about shipping end-to-end experiences, not just model calls. The API, retrieval layer, UI, and operational story need to fit together.
-- I like pragmatic engineering: simple where possible, structured where necessary, and production-aware from the start.
+- I prefer systems that are grounded, inspectable, and measurable over AI that only looks good in a demo.
+- I care about complete product behavior, not just model output. Retrieval, APIs, UX, and operations need to work together.
+- I tend to favor pragmatic design: simple where possible, structured where necessary, and production-aware from the beginning.
 
 ## Tech Stack
 
