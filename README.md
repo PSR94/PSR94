@@ -91,68 +91,98 @@ I care about AI systems that are useful beyond a demo: **grounded in trusted dat
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/PSR94/VANGUARD">
+        <img src="https://raw.githubusercontent.com/PSR94/VANGUARD/main/docs/assets/banner.svg" width="100%" alt="VANGUARD banner"/>
+      </a>
+      <br/><br/>
       <h3><a href="https://github.com/PSR94/VANGUARD">VANGUARD</a></h3>
       <strong>AI Release Intelligence and PR Risk Copilot</strong>
       <br/><br/>
-      Local-first engineering intelligence platform for pull request and release operations. It evaluates PR risk, maps blast radius, detects CI and test gaps, enforces policy gates, and generates grounded release-readiness summaries.
+      PR and release intelligence platform for risk scoring, blast-radius mapping, CI/test diagnostics, policy gates, and release-readiness summaries.
       <br/><br/>
-      <strong>Core ideas:</strong> PR intelligence, risk scoring, release readiness, CI diagnostics, dependency impact, policy gates, auditability.
-      <br/>
-      <strong>Stack:</strong> FastAPI, Next.js, Neo4j, PostgreSQL, Redis, OpenSearch.
+      <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square" alt="Neo4j"/>
+      <img src="https://img.shields.io/badge/Release%20Risk-f97316?style=flat-square" alt="Release Risk"/>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/PSR94/ARGUS">
+        <img src="https://raw.githubusercontent.com/PSR94/ARGUS/main/docs/assets/banner.svg" width="100%" alt="ARGUS banner"/>
+      </a>
+      <br/><br/>
       <h3><a href="https://github.com/PSR94/ARGUS">ARGUS</a></h3>
-      <strong>LLM Red Team, Guardrail, and Model Risk Evaluation Platform</strong>
+      <strong>LLM Red Team and Model Risk Evaluation Platform</strong>
       <br/><br/>
-      Controlled, repeatable, and auditable LLM risk evaluation platform for testing prompt injection, unsafe tool calls, PII leakage, fabricated citations, refusal failures, and guardrail regressions before model-backed features ship.
+      Auditable LLM risk platform for prompt injection, unsafe tool calls, PII leakage, fabricated citations, guardrail failures, reports, and CI gates.
       <br/><br/>
-      <strong>Core ideas:</strong> LLM risk evaluation, attack suites, guardrail policies, findings, reports, CI gates, deterministic evaluators.
-      <br/>
-      <strong>Stack:</strong> FastAPI, Next.js, PostgreSQL, deterministic providers, evaluation runners.
+      <img src="https://img.shields.io/badge/LLM%20Risk-7c3aed?style=flat-square" alt="LLM Risk"/>
+      <img src="https://img.shields.io/badge/Guardrails-0f766e?style=flat-square" alt="Guardrails"/>
+      <img src="https://img.shields.io/badge/CI%20Gates-f97316?style=flat-square" alt="CI Gates"/>
+      <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square" alt="FastAPI"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/PSR94/ORION">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0f766e&height=110&section=header&text=ORION&fontSize=34&fontColor=ffffff&desc=Enterprise%20AgentOps%20Control%20Plane&descSize=15&descAlignY=72" width="100%" alt="ORION banner"/>
+      </a>
+      <br/><br/>
       <h3><a href="https://github.com/PSR94/ORION">ORION</a></h3>
       <strong>Enterprise AgentOps Control Plane</strong>
       <br/><br/>
-      Observability and governance platform for production agent workflows. It provides deterministic state management, execution tracing, human-in-the-loop approval gates, PII masking, and operational visibility for enterprise AI agents.
+      Observability and governance platform for production agent workflows with execution traces, HITL approval gates, state management, and PII controls.
       <br/><br/>
-      <strong>Core ideas:</strong> AgentOps, execution traces, HITL approvals, state management, sensitive tool governance, PII controls.
-      <br/>
-      <strong>Stack:</strong> FastAPI, Next.js, PostgreSQL, Redis, agent orchestration services.
+      <img src="https://img.shields.io/badge/AgentOps-0f172a?style=flat-square" alt="AgentOps"/>
+      <img src="https://img.shields.io/badge/HITL-f97316?style=flat-square" alt="HITL"/>
+      <img src="https://img.shields.io/badge/Tracing-7c3aed?style=flat-square" alt="Tracing"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" alt="PostgreSQL"/>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/PSR94/ContextMesh">
+        <img src="https://raw.githubusercontent.com/PSR94/ContextMesh/main/docs/assets/banner.svg" width="100%" alt="ContextMesh banner"/>
+      </a>
+      <br/><br/>
       <h3><a href="https://github.com/PSR94/ContextMesh">ContextMesh</a></h3>
       <strong>Enterprise Knowledge Intelligence Platform</strong>
       <br/><br/>
-      Private knowledge platform for enterprise documents and operational knowledge. It combines dense retrieval, sparse retrieval, graph-aware lookup, query planning, reranking, evidence cards, trace persistence, and tenant-aware access boundaries.
+      Private knowledge platform combining dense retrieval, sparse retrieval, graph-aware lookup, query planning, reranking, evidence cards, and trace persistence.
       <br/><br/>
-      <strong>Core ideas:</strong> Hybrid RAG, GraphRAG, tenant-aware retrieval, evidence transparency, query traces, evaluation loops.
-      <br/>
-      <strong>Stack:</strong> FastAPI, Next.js, Qdrant, Neo4j, PostgreSQL, Redis, MinIO.
+      <img src="https://img.shields.io/badge/RAG-0ea5e9?style=flat-square" alt="RAG"/>
+      <img src="https://img.shields.io/badge/GraphRAG-4581C3?style=flat-square" alt="GraphRAG"/>
+      <img src="https://img.shields.io/badge/Qdrant-111827?style=flat-square" alt="Qdrant"/>
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square" alt="Neo4j"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/PSR94/citadel">
+        <img src="https://raw.githubusercontent.com/PSR94/citadel/main/docs/assets/banner.svg" width="100%" alt="CITADEL banner"/>
+      </a>
+      <br/><br/>
       <h3><a href="https://github.com/PSR94/citadel">CITADEL</a></h3>
       <strong>Enterprise Retrieval Intelligence Platform</strong>
       <br/><br/>
-      Evidence-first document intelligence platform focused on hybrid retrieval, graph-aware expansion, reranking, strict citation enforcement, insufficient-evidence handling, evaluation gates, and operator-grade retrieval visibility.
+      Evidence-first document intelligence platform with hybrid retrieval, graph expansion, reranking, strict citations, eval gates, and operator visibility.
       <br/><br/>
-      <strong>Core ideas:</strong> Strict grounding, citation enforcement, graph expansion, retrieval evals, operator visibility, governance seams.
-      <br/>
-      <strong>Stack:</strong> FastAPI, Next.js, OpenSearch, Qdrant, Neo4j, Redis, PostgreSQL.
+      <img src="https://img.shields.io/badge/Hybrid%20Retrieval-0f766e?style=flat-square" alt="Hybrid Retrieval"/>
+      <img src="https://img.shields.io/badge/Citations-f97316?style=flat-square" alt="Citations"/>
+      <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square" alt="OpenSearch"/>
+      <img src="https://img.shields.io/badge/Qdrant-111827?style=flat-square" alt="Qdrant"/>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/PSR94/helios">
+        <img src="https://raw.githubusercontent.com/PSR94/helios/main/docs/assets/banner.svg" width="100%" alt="HELIOS banner"/>
+      </a>
+      <br/><br/>
       <h3><a href="https://github.com/PSR94/helios">HELIOS</a></h3>
       <strong>Governed AI Analytics Engineering Platform</strong>
       <br/><br/>
-      Semantic NL-to-SQL analytics platform that grounds SQL generation in metric definitions, validates queries before execution, runs governed read-only analytics, and surfaces schema, lineage, quality, and trust signals to users.
+      Semantic NL-to-SQL analytics platform with metric grounding, SQL validation, read-only execution, lineage, quality signals, and trust-aware insights.
       <br/><br/>
-      <strong>Core ideas:</strong> Semantic analytics, governed SQL, trust-aware execution, metric catalogs, lineage, analytical UX.
-      <br/>
-      <strong>Stack:</strong> FastAPI, Next.js, DuckDB, sqlglot, semantic YAML, analytics services.
+      <img src="https://img.shields.io/badge/NL--to--SQL-7c3aed?style=flat-square" alt="NL-to-SQL"/>
+      <img src="https://img.shields.io/badge/DuckDB-FDCB2F?style=flat-square" alt="DuckDB"/>
+      <img src="https://img.shields.io/badge/sqlglot-0f766e?style=flat-square" alt="sqlglot"/>
+      <img src="https://img.shields.io/badge/Analytics-f97316?style=flat-square" alt="Analytics"/>
     </td>
   </tr>
 </table>
@@ -167,9 +197,11 @@ I care about AI systems that are useful beyond a demo: **grounded in trusted dat
       <h3><a href="https://github.com/PSR94/knowledge_graph_rag">Evidence Graph RAG</a></h3>
       Local-first graph RAG application for ingesting operational documents into Neo4j, extracting entities and relationships with Ollama, retrieving graph neighbors, and generating answers with explicit evidence references.
       <br/><br/>
-      <strong>Core ideas:</strong> Graph extraction, Neo4j retrieval, local LLM workflows, citation assembly, evidence-backed answers.
-      <br/>
-      <strong>Stack:</strong> Python, Streamlit, Neo4j, Ollama, graph retrieval.
+      <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square" alt="Python"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square" alt="Neo4j"/>
+      <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/Graph%20RAG-0f766e?style=flat-square" alt="Graph RAG"/>
     </td>
   </tr>
 </table>
@@ -269,6 +301,7 @@ I care about AI systems that are useful beyond a demo: **grounded in trusted dat
     </td>
   </tr>
 </table>
+
 ---
 
 ## Working Style
