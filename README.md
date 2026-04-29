@@ -233,42 +233,39 @@ I care about AI systems that are useful beyond a demo: **grounded in trusted dat
 
 ## Certifications
 
-<table width="90%" align="center">
+<table width="84%" align="center">
   <tr>
-    <td width="33.33%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="88" alt="Microsoft" /><br/><br/>
-      <strong>Microsoft</strong><br/>
-      AI-102 Azure AI Engineer Associate<br/>
-      AZ-305 Azure Solutions Architect Expert<br/>
-      DP-700 / DP-600 Fabric Data & Analytics Engineer Associate
-    </td>
     <td width="33.33%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/anthropic/D4A373" width="88" alt="Anthropic" /><br/><br/>
       <strong>Anthropic</strong><br/>
-      Claude Certified Architect
+      Claude certification track
     </td>
     <td width="33.33%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/databricks/FF3621" width="88" alt="Databricks" /><br/><br/>
-      <strong>Databricks</strong><br/>
-      Certified Machine Learning Professional
+      <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="88" alt="Microsoft Certification" /><br/><br/>
+      <strong>Microsoft</strong><br/>
+      Fabric professional certification
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="88" alt="AWS Certification" /><br/><br/>
+      <strong>AWS</strong><br/>
+      Cloud professional certification
     </td>
   </tr>
 </table>
 
 <br/>
 
-<table width="70%" align="center">
+<table width="66%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="88" alt="Snowflake" /><br/><br/>
       <strong>Snowflake</strong><br/>
-      SnowPro Core<br/>
-      SnowPro GenAI Specialty
+      Platform certification
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="88" alt="AWS" /><br/><br/>
-      <strong>AWS</strong><br/>
-      AWS Certified Developer Associate
+      <img src="https://cdn.simpleicons.org/databricks/FF3621" width="88" alt="Databricks" /><br/><br/>
+      <strong>Databricks</strong><br/>
+      Platform certification
     </td>
   </tr>
 </table>
