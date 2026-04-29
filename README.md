@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20%26%20AI%20Engineer%20%7C%20Agentic%20AI%20%26%20GenAI%20%7C%20Microsoft%20Fabric%20%26%20Azure&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20and%20AI%20Engineer%20%7C%20Agentic%20AI%20and%20GenAI%20%7C%20Microsoft%20Fabric%20and%20Azure&descAlignY=55&descSize=18" />type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18" />
 
 <!-- BADGES ROW -->
 <p align="center">
