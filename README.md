@@ -17,7 +17,7 @@
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Building+AI+systems+that+hold+up+in+real+workflows;Grounded+retrieval%2C+agent+orchestration%2C+and+usable+interfaces;From+prototype+energy+to+production-minded+engineering" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=1000&lines=Enterprise+Data+%26+AI+Engineering;Agentic+AI%2C+RAG%2C+and+LLMOps;Microsoft+Fabric+%7C+Azure+%7C+GenAI+Systems" alt="Typing SVG"/>
   </a>
 </p>
 
