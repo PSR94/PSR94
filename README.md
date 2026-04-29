@@ -23,15 +23,31 @@
 
 ---
 
-## About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
 
-I am a Senior Data & AI Engineer with 10+ years of experience building enterprise data platforms, GenAI systems, agentic workflows, and production AI applications across financial services, healthcare, insurance, and retail.
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <p>
+        <i>AI/ML engineer building agentic systems, grounded retrieval, and product-shaped software.</i>
+      </p>
+      <p>
+        I care most about the part of AI engineering where model capability meets system design. The goal is not just to make something impressive once, but to make it dependable, understandable, and genuinely useful inside a real workflow.
+      </p>
+      <p>
+        My public GitHub is where I share that thinking in visible form: retrieval systems, orchestration patterns, full-stack AI applications, and experiments that show how I approach end-to-end product delivery.
+      </p>
+      <br/>
+      <b>🚀 Right Now</b>
+      <ul>
+        <li>Designing agent workflows that combine tools, retrieval, and explicit decision paths</li>
+        <li>Building RAG systems with stronger grounding, clearer evidence, and better output quality</li>
+        <li>Shaping AI products where backend logic, UX, and operational behavior all line up cleanly</li>
+      </ul>
+    </td>
 
-My work sits at the intersection of data engineering, applied AI, and enterprise software delivery. I focus on turning complex business processes into reliable systems through governed data foundations, retrieval pipelines, workflow automation, evaluation, observability, and production-grade engineering practices.
-
-Recently, I have been focused on Microsoft Fabric and Azure modernization, enterprise RAG systems, semantic search, LLMOps, regulatory workflow automation, and agentic AI patterns that combine tools, retrieval, human review, and auditable decision paths.
-
-I care about AI systems that are useful beyond a demo: grounded in trusted data, measurable in behavior, explainable to stakeholders, and maintainable by engineering teams.
+  </tr>
+</table>
 
 ## Build Focus
 
