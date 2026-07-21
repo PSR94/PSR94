@@ -11,151 +11,74 @@
   <img src="https://komarev.com/ghpvc/?username=PSR94&label=PROFILE%20VIEWS&color=059669&style=for-the-badge" alt="Profile views">
 </p>
 
-## Hello — I'm Pavan
+<br>
 
-I'm an **AI Software Engineer** who builds full-stack AI products and modern data systems. My work connects the pieces that make AI useful beyond a prototype: reliable data, grounded retrieval, tool-using workflows, human review, evaluation, observability, and a product experience people can actually operate.
+<img width="100%" src="./assets/sections/about.svg" alt="Hello, I'm Pavan — AI Software Engineer building grounded, observable AI products and modern data systems">
 
-I am especially interested in **agentic systems**, **RAG and knowledge platforms**, **AI evaluation and governance**, and **Microsoft Fabric / Azure modernization**.
+<br>
 
-Alongside my own products, I contribute fixes, tests, documentation, and developer-experience improvements to open-source AI and infrastructure projects.
+<img width="100%" src="./assets/sections/pillars.svg" alt="How I build: ground the system, control the workflow, and prove the behavior">
 
-> My north star: make intelligent systems grounded enough to trust, observable enough to improve, and simple enough to use.
+<br>
 
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <strong>01 · Ground the system</strong><br><br>
-      Governed data, semantic models, hybrid retrieval, graph context, reranking, and source-linked evidence.
-    </td>
-    <td width="33.33%" valign="top">
-      <strong>02 · Control the workflow</strong><br><br>
-      Typed outputs, deterministic state, tool boundaries, policy gates, human approval, and recovery paths.
-    </td>
-    <td width="33.33%" valign="top">
-      <strong>03 · Prove the behavior</strong><br><br>
-      Eval suites, traceability, quality signals, CI gates, audit history, and operator-facing observability.
-    </td>
-  </tr>
-</table>
+<h2 align="center">Selected work</h2>
+<p align="center"><sub>Six production-minded systems spanning enterprise workflows, retrieval, model risk, and developer experience.</sub></p>
 
-## Selected work
+<a href="https://github.com/PSR94/TransitionIQ"><img width="100%" src="./assets/projects/transitioniq.svg" alt="TransitionIQ — workforce health transition navigator"></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PSR94/TransitionIQ">TransitionIQ ↗</a></h3>
-      <strong>Workforce health transition navigator</strong>
-      <br><br>
-      A role-based workflow for employers, employees, consultants, and admins to model coverage transitions, compare synthetic options, plan stipends, review recommendations, and preserve audit history.
-      <br><br>
-      <code>TypeScript</code> · <code>React</code> · <code>Express</code> · <code>PostgreSQL</code> · <code>Drizzle</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PSR94/fabricshift">FabricShift ↗</a></h3>
-      <strong>Microsoft Fabric migration readiness workbench</strong>
-      <br><br>
-      Maps legacy analytics assets to Fabric targets, scores blockers and readiness, runs reconciliation checks, visualizes lineage, plans migration waves, and exports executive packets.
-      <br><br>
-      <code>Microsoft Fabric</code> · <code>React</code> · <code>Express</code> · <code>TypeScript</code> · <code>Python</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PSR94/VANGUARD">VANGUARD ↗</a></h3>
-      <strong>AI release intelligence and PR risk copilot</strong>
-      <br><br>
-      Turns pull-request context into risk scores, blast-radius maps, CI and test-gap diagnostics, policy decisions, and release-readiness summaries.
-      <br><br>
-      <code>FastAPI</code> · <code>Next.js</code> · <code>Neo4j</code> · <code>OpenSearch</code> · <code>Redis</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PSR94/ContextMesh">ContextMesh ↗</a></h3>
-      <strong>Private knowledge intelligence platform</strong>
-      <br><br>
-      Combines dense and sparse retrieval, graph-aware lookup, query planning, reranking, evidence cards, grounded answers, and persisted traces for enterprise knowledge.
-      <br><br>
-      <code>Python</code> · <code>FastAPI</code> · <code>Qdrant</code> · <code>Neo4j</code> · <code>RAG</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PSR94/ARGUS">ARGUS ↗</a></h3>
-      <strong>LLM red-team and model-risk platform</strong>
-      <br><br>
-      Exercises prompt injection, unsafe tool use, PII leakage, citation failures, and guardrail behavior—then produces reviewable findings, reports, and CI policy gates.
-      <br><br>
-      <code>Python</code> · <code>FastAPI</code> · <code>LLM Evals</code> · <code>Guardrails</code> · <code>CI</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PSR94/resume-tailor">ResumeTailor ↗</a></h3>
-      <strong>Local, format-preserving resume tailoring</strong>
-      <br><br>
-      Scores resume bullets against a role, proposes targeted swaps through a ChatGPT prompt bridge, keeps DOCX structure intact, and lets the user review every change.
-      <br><br>
-      <code>React</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>python-docx</code> · <code>Local-first</code>
-    </td>
-  </tr>
-</table>
+<br>
 
-### Full project landscape
+<a href="https://github.com/PSR94/fabricshift"><img width="100%" src="./assets/projects/fabricshift.svg" alt="FabricShift — Microsoft Fabric migration readiness workbench"></a>
 
-The highlighted repositories above are part of a wider body of work:
+<br>
 
-| Area | Projects | What connects them |
-|---|---|---|
-| **Agent systems, safety & operations** | [VANGUARD](https://github.com/PSR94/VANGUARD) · [ARGUS](https://github.com/PSR94/ARGUS) · [ORION](https://github.com/PSR94/ORION) · [CALLSIGNAL](https://github.com/PSR94/CALLSIGNAL) | Risk analysis, red teaming, agent observability, human approval, voice operations, and audit trails |
-| **Knowledge & retrieval** | [ContextMesh](https://github.com/PSR94/ContextMesh) · [CITADEL](https://github.com/PSR94/citadel) · [Evidence Graph RAG](https://github.com/PSR94/knowledge_graph_rag) | Hybrid search, graph context, reranking, grounded answers, citations, and retrieval evaluation |
-| **Data, analytics & enterprise workflows** | [FabricShift](https://github.com/PSR94/fabricshift) · [HELIOS](https://github.com/PSR94/helios) · [TransitionIQ](https://github.com/PSR94/TransitionIQ) | Fabric migration, governed NL-to-SQL, semantic models, role-based workflows, and decision support |
-| **Developer & learning products** | [ResumeTailor](https://github.com/PSR94/resume-tailor) · [AI Engineer Roadmap 2026](https://psr94.github.io/ai-engineer-roadmap-custom/) | Local-first career tooling and an interactive path to production AI engineering |
+<a href="https://github.com/PSR94/VANGUARD"><img width="100%" src="./assets/projects/vanguard.svg" alt="VANGUARD — AI release intelligence and PR risk copilot"></a>
 
-Earlier hands-on work includes a [Streamlit image-to-text demo](https://github.com/PSR94/image2textapp) and [machine-learning notebooks](https://github.com/PSR94/AML) for applied prediction experiments.
+<br>
 
-## Open-source contributions
+<a href="https://github.com/PSR94/ContextMesh"><img width="100%" src="./assets/projects/contextmesh.svg" alt="ContextMesh — private knowledge intelligence platform"></a>
 
-I contribute upstream across Python libraries, LLM infrastructure, orchestration frameworks, cloud SDKs, and developer tools. Recent work includes:
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pydantic/pydantic">Pydantic</a></h3>
-      <strong>Merged upstream</strong><br><br>
-      Fixed the pre-commit installation command in the contributor guide.
-      <br><br>
-      <a href="https://github.com/pydantic/pydantic/pull/13435">pydantic/pydantic #13435 ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/googleapis/python-aiplatform">Vertex AI Python SDK</a></h3>
-      Multi-turn agent response normalization, safer execution-credential defaults, and prompt version metadata.
-      <br><br>
-      <a href="https://github.com/googleapis/python-aiplatform/pull/6984">#6984</a> ·
-      <a href="https://github.com/googleapis/python-aiplatform/pull/6983">#6983</a> ·
-      <a href="https://github.com/googleapis/python-aiplatform/pull/6975">#6975</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vllm-project/vllm">vLLM</a></h3>
-      Added coverage for parallel-sampling output kinds and documented accelerated ModelOpt load formats.
-      <br><br>
-      <a href="https://github.com/vllm-project/vllm/pull/48062">#48062</a> ·
-      <a href="https://github.com/vllm-project/vllm/pull/48063">#48063</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/microsoft/semantic-kernel">Semantic Kernel</a></h3>
-      Fixed Python function metadata so explicit <code>None</code> defaults are preserved.
-      <br><br>
-      <a href="https://github.com/microsoft/semantic-kernel/pull/14145">microsoft/semantic-kernel #14145 ↗</a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/PSR94/ARGUS"><img width="100%" src="./assets/projects/argus.svg" alt="ARGUS — LLM red-team and model-risk platform"></a>
 
-| Upstream project | Contribution | Pull request |
-|---|---|---|
-| [Altair GraphQL Client](https://github.com/altair-graphql/altair) | Support deeply nested schema types | [#3300](https://github.com/altair-graphql/altair/pull/3300) |
-| [ComparIA](https://github.com/betagouv/ComparIA) | Repair and document the dataset export workflow | [#596](https://github.com/betagouv/ComparIA/pull/596) |
-| [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) | Route the SDK YAPF workflow through project make targets | [#13703](https://github.com/kubeflow/pipelines/pull/13703) |
+<br>
 
-<sub>Pull-request links show the current review or merge status directly on GitHub.</sub>
+<a href="https://github.com/PSR94/resume-tailor"><img width="100%" src="./assets/projects/resumetailor.svg" alt="ResumeTailor — local format-preserving resume tailoring"></a>
+
+<br>
+
+<a href="https://github.com/PSR94?tab=repositories"><img width="100%" src="./assets/sections/landscape.svg" alt="Full project landscape across agent systems, retrieval, enterprise workflows, and developer products"></a>
+
+<details>
+  <summary><strong>Direct repository index</strong></summary>
+  <br>
+
+  **Agent systems:** [VANGUARD](https://github.com/PSR94/VANGUARD) · [ARGUS](https://github.com/PSR94/ARGUS) · [ORION](https://github.com/PSR94/ORION) · [CALLSIGNAL](https://github.com/PSR94/CALLSIGNAL)
+
+  **Knowledge:** [ContextMesh](https://github.com/PSR94/ContextMesh) · [CITADEL](https://github.com/PSR94/citadel) · [Evidence Graph RAG](https://github.com/PSR94/knowledge_graph_rag)
+
+  **Data and enterprise:** [FabricShift](https://github.com/PSR94/fabricshift) · [HELIOS](https://github.com/PSR94/helios) · [TransitionIQ](https://github.com/PSR94/TransitionIQ)
+
+  **Developer products:** [ResumeTailor](https://github.com/PSR94/resume-tailor) · [AI Engineer Roadmap 2026](https://psr94.github.io/ai-engineer-roadmap-custom/)
+</details>
+
+<br>
+
+<a href="https://github.com/search?q=is%3Apr+author%3APSR94&type=pullrequests"><img width="100%" src="./assets/sections/open-source.svg" alt="Open-source contributions across Pydantic, Vertex AI, vLLM, Semantic Kernel, Altair, ComparIA, and Kubeflow"></a>
+
+<details>
+  <summary><strong>Direct pull-request index</strong></summary>
+  <br>
+
+  - **Pydantic:** [#13435](https://github.com/pydantic/pydantic/pull/13435) — merged contributor-guide fix
+  - **Vertex AI Python SDK:** [#6975](https://github.com/googleapis/python-aiplatform/pull/6975) · [#6983](https://github.com/googleapis/python-aiplatform/pull/6983) · [#6984](https://github.com/googleapis/python-aiplatform/pull/6984)
+  - **vLLM:** [#48062](https://github.com/vllm-project/vllm/pull/48062) · [#48063](https://github.com/vllm-project/vllm/pull/48063)
+  - **Semantic Kernel:** [#14145](https://github.com/microsoft/semantic-kernel/pull/14145)
+  - **Altair GraphQL Client:** [#3300](https://github.com/altair-graphql/altair/pull/3300)
+  - **ComparIA:** [#596](https://github.com/betagouv/ComparIA/pull/596)
+  - **Kubeflow Pipelines:** [#13703](https://github.com/kubeflow/pipelines/pull/13703)
+</details>
 
 ## Engineering toolkit
 
