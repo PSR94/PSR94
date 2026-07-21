@@ -1,0 +1,35 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">How I build</title>
+  <desc id="desc">Three engineering pillars: ground the system, control the workflow, and prove the behavior.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="rule" x1="48" y1="0" x2="1152" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="url(#bg)" stroke="#273449" stroke-width="2"/>
+  <rect x="48" y="40" width="1104" height="2" rx="1" fill="url(#rule)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+    <text x="48" y="78" fill="#64748B" font-size="12" font-weight="750" letter-spacing="2">HOW I BUILD</text>
+
+    <g transform="translate(48 102)">
+      <rect width="344" height="158" rx="20" fill="#0A1B2D" stroke="#164E63"/>
+      <text x="24" y="39" fill="#38BDF8" font-size="13" font-weight="800" letter-spacing="1.4">01 / GROUND</text>
+      <text x="24" y="73" fill="#F8FAFC" font-size="23" font-weight="700">Ground the system</text>
+      <text x="24" y="105" fill="#94A3B8" font-size="15">Governed data · semantic models</text>
+      <text x="24" y="130" fill="#94A3B8" font-size="15">hybrid retrieval · source evidence</text>
+    </g>
+    <g transform="translate(428 102)">
+      <rect width="344" height="158" rx="20" fill="#17172F" stroke="#5B21B6"/>
+      <text x="24" y="39" fill="#A78BFA" font-size="13" font-weight="800" letter-spacing="1.4">02 / CONTROL</text>
+      <text x="24" y="73" fill="#F8FAFC" font-size="23" font-weight="700">Control the workflow</text>
+      <text x="24" y="105" fill="#94A3B8" font-size="15">Typed outputs · bounded tools</text>
+      <text x="24" y="130" fill="#94A3B8" font-size="15">policy gates · human approval</text>
+    </g>
+    <g transform="translate(808 102)">
+      <rect width="344" height="158" rx="20" fill="#10231F" stroke="#047857"/>
+      <text x="24" y="39" fill="#34D399" font-size="13" font-weight="800" letter-spacing="1.4">03 / PROVE</text>
+      <text x="24" y="73" fill="#F8FAFC" font-size="23" font-weight="700">Prove the behavior</text>
+      <text x="24" y="105" fill="#94A3B8" font-size="15">Eval suites · quality signals</text>
+      <text x="24" y="130" fill="#94A3B8" font-size="15">CI gates · traces · audit history</text>
+    </g>
+  </g>
+</svg>

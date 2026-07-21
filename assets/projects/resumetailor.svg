@@ -1,0 +1,14 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ResumeTailor</title><desc id="desc">Local format-preserving resume tailoring built with React, TypeScript, FastAPI, and python-docx.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#112619"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="0" y2="230"><stop stop-color="#86EFAC"/><stop offset="1" stop-color="#16A34A"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="228" rx="24" fill="url(#bg)" stroke="#166534" stroke-width="2"/><rect x="1" y="1" width="8" height="228" rx="4" fill="url(#bar)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+    <rect x="42" y="42" width="72" height="72" rx="20" fill="#16331F" stroke="#16A34A"/><path d="M62 58H87L99 70V101H62V58Z" stroke="#BBF7D0" stroke-width="4" stroke-linejoin="round"/><path d="M87 58V71H99M69 81H91M69 91H86" stroke="#86EFAC" stroke-width="3" stroke-linecap="round"/>
+    <text x="144" y="64" fill="#BBF7D0" font-size="12" font-weight="800" letter-spacing="1.6">LOCAL-FIRST CAREER TOOLING</text>
+    <text x="144" y="104" fill="#F8FAFC" font-size="34" font-weight="760">ResumeTailor</text>
+    <text x="144" y="137" fill="#CBD5E1" font-size="18" font-weight="600">Targeted resume improvements without destroying the original DOCX layout.</text>
+    <text x="144" y="168" fill="#94A3B8" font-size="15">Bullet scoring · prompt bridge · reviewable swaps · formatting preservation</text>
+    <g font-size="12" font-weight="750" fill="#DCFCE7"><text x="144" y="204">REACT</text><text x="206" y="204">TYPESCRIPT</text><text x="310" y="204">FASTAPI</text><text x="386" y="204">PYTHON-DOCX</text><text x="506" y="204">LOCAL-FIRST</text></g>
+    <rect x="1002" y="83" width="150" height="48" rx="24" fill="#16331F" stroke="#16A34A"/><text x="1077" y="113" text-anchor="middle" fill="#DCFCE7" font-size="12" font-weight="800">VIEW REPOSITORY</text>
+  </g>
+</svg>
