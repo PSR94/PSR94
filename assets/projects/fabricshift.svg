@@ -1,14 +1,20 @@
-<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">FabricShift</title><desc id="desc">Microsoft Fabric migration readiness workbench built with React, Express, TypeScript, and Python.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0A2032"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="0" y2="230"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#0284C7"/></linearGradient></defs>
-  <rect x="1" y="1" width="1198" height="228" rx="24" fill="url(#bg)" stroke="#164E63" stroke-width="2"/><rect x="1" y="1" width="8" height="228" rx="4" fill="url(#bar)"/>
+<svg width="580" height="270" viewBox="0 0 580 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">FabricShift</title><desc id="desc">Microsoft Fabric migration readiness workbench.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="580" y2="270"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0A2032"/></linearGradient></defs>
+  <rect x="1" y="1" width="578" height="268" rx="22" fill="url(#bg)" stroke="#164E63" stroke-width="2"/><rect x="1" y="1" width="7" height="268" rx="3.5" fill="#38BDF8"/>
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
-    <rect x="42" y="42" width="72" height="72" rx="20" fill="#10283D" stroke="#0284C7"/><path d="M60 91C70 67 80 67 90 91C96 104 102 99 104 92" stroke="#7DD3FC" stroke-width="5" stroke-linecap="round"/>
-    <text x="144" y="64" fill="#7DD3FC" font-size="12" font-weight="800" letter-spacing="1.6">MICROSOFT FABRIC MODERNIZATION</text>
-    <text x="144" y="104" fill="#F8FAFC" font-size="34" font-weight="760">FabricShift</text>
-    <text x="144" y="137" fill="#CBD5E1" font-size="18" font-weight="600">Migration readiness, target mapping, reconciliation, lineage, and wave planning.</text>
-    <text x="144" y="168" fill="#94A3B8" font-size="15">Legacy estate inventory · blocker scoring · executive readiness packets</text>
-    <g font-size="12" font-weight="750" fill="#BAE6FD"><text x="144" y="204">MICROSOFT FABRIC</text><text x="296" y="204">REACT</text><text x="358" y="204">EXPRESS</text><text x="444" y="204">TYPESCRIPT</text><text x="548" y="204">PYTHON</text></g>
-    <rect x="1002" y="83" width="150" height="48" rx="24" fill="#10283D" stroke="#0284C7"/><text x="1077" y="113" text-anchor="middle" fill="#BAE6FD" font-size="12" font-weight="800">VIEW REPOSITORY</text>
+    <rect x="28" y="28" width="58" height="58" rx="17" fill="#10283D" stroke="#0284C7"/><path d="M42 69C50 47 59 47 67 69C72 81 78 76 80 69" stroke="#7DD3FC" stroke-width="4" stroke-linecap="round"/>
+    <text x="106" y="47" fill="#7DD3FC" font-size="10" font-weight="800" letter-spacing="1.4">FABRIC MODERNIZATION</text>
+    <text x="106" y="77" fill="#F8FAFC" font-size="28" font-weight="760">FabricShift</text>
+    <text x="28" y="120" fill="#CBD5E1" font-size="15" font-weight="600">Fabric migration readiness across inventory,</text>
+    <text x="28" y="143" fill="#CBD5E1" font-size="15" font-weight="600">mapping, lineage, and migration waves.</text>
+    <text x="28" y="170" fill="#94A3B8" font-size="13">Blocker scoring · reconciliation · executive packets</text>
+    <path d="M28 190H552" stroke="#164E63"/>
+    <g font-size="10" font-weight="800" fill="#BAE6FD">
+      <rect x="28" y="207" width="116" height="25" rx="12.5" fill="#10283D"/><text x="86" y="224" text-anchor="middle">MS FABRIC</text>
+      <rect x="152" y="207" width="60" height="25" rx="12.5" fill="#10283D"/><text x="182" y="224" text-anchor="middle">REACT</text>
+      <rect x="220" y="207" width="88" height="25" rx="12.5" fill="#10283D"/><text x="264" y="224" text-anchor="middle">TYPESCRIPT</text>
+    </g>
+    <text x="552" y="251" text-anchor="end" fill="#7DD3FC" font-size="11" font-weight="800" letter-spacing="1">OPEN REPOSITORY</text>
   </g>
 </svg>

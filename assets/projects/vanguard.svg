@@ -1,14 +1,20 @@
-<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">VANGUARD</title><desc id="desc">AI release intelligence and pull-request risk copilot using FastAPI, Next.js, Neo4j, OpenSearch, and Redis.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#2B2011"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="0" y2="230"><stop stop-color="#FCD34D"/><stop offset="1" stop-color="#D97706"/></linearGradient></defs>
-  <rect x="1" y="1" width="1198" height="228" rx="24" fill="url(#bg)" stroke="#784A12" stroke-width="2"/><rect x="1" y="1" width="8" height="228" rx="4" fill="url(#bar)"/>
+<svg width="580" height="270" viewBox="0 0 580 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">VANGUARD</title><desc id="desc">AI release intelligence and pull-request risk copilot.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="580" y2="270"><stop stop-color="#07111F"/><stop offset="1" stop-color="#2B2011"/></linearGradient></defs>
+  <rect x="1" y="1" width="578" height="268" rx="22" fill="url(#bg)" stroke="#784A12" stroke-width="2"/><rect x="1" y="1" width="7" height="268" rx="3.5" fill="#FCD34D"/>
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
-    <rect x="42" y="42" width="72" height="72" rx="20" fill="#3A2B16" stroke="#D97706"/><path d="M78 59L99 68V82C99 96 90 105 78 110C66 105 57 96 57 82V68L78 59Z" stroke="#FCD34D" stroke-width="4"/><path d="M68 82L75 89L89 73" stroke="#FCD34D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="144" y="64" fill="#FCD34D" font-size="12" font-weight="800" letter-spacing="1.6">ENGINEERING INTELLIGENCE</text>
-    <text x="144" y="104" fill="#F8FAFC" font-size="34" font-weight="760">VANGUARD</text>
-    <text x="144" y="137" fill="#CBD5E1" font-size="18" font-weight="600">PR risk scoring, blast-radius mapping, CI diagnostics, and release-readiness gates.</text>
-    <text x="144" y="168" fill="#94A3B8" font-size="15">Dependency intelligence · test gaps · policy decisions · operator summaries</text>
-    <g font-size="12" font-weight="750" fill="#FDE68A"><text x="144" y="204">FASTAPI</text><text x="220" y="204">NEXT.JS</text><text x="300" y="204">NEO4J</text><text x="364" y="204">OPENSEARCH</text><text x="474" y="204">REDIS</text></g>
-    <rect x="1002" y="83" width="150" height="48" rx="24" fill="#3A2B16" stroke="#D97706"/><text x="1077" y="113" text-anchor="middle" fill="#FDE68A" font-size="12" font-weight="800">VIEW REPOSITORY</text>
+    <rect x="28" y="28" width="58" height="58" rx="17" fill="#3A2B16" stroke="#D97706"/><path d="M57 41L73 48V59C73 70 66 77 57 81C48 77 41 70 41 59V48L57 41Z" stroke="#FCD34D" stroke-width="3"/><path d="M49 59L55 65L66 52" stroke="#FCD34D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="106" y="47" fill="#FCD34D" font-size="10" font-weight="800" letter-spacing="1.4">ENGINEERING INTELLIGENCE</text>
+    <text x="106" y="77" fill="#F8FAFC" font-size="28" font-weight="760">VANGUARD</text>
+    <text x="28" y="120" fill="#CBD5E1" font-size="15" font-weight="600">PR risk, blast-radius, CI gaps, and</text>
+    <text x="28" y="143" fill="#CBD5E1" font-size="15" font-weight="600">release-readiness intelligence.</text>
+    <text x="28" y="170" fill="#94A3B8" font-size="13">Policy gates · test diagnostics · operator summaries</text>
+    <path d="M28 190H552" stroke="#784A12"/>
+    <g font-size="10" font-weight="800" fill="#FDE68A">
+      <rect x="28" y="207" width="68" height="25" rx="12.5" fill="#3A2B16"/><text x="62" y="224" text-anchor="middle">FASTAPI</text>
+      <rect x="104" y="207" width="70" height="25" rx="12.5" fill="#3A2B16"/><text x="139" y="224" text-anchor="middle">NEXT.JS</text>
+      <rect x="182" y="207" width="62" height="25" rx="12.5" fill="#3A2B16"/><text x="213" y="224" text-anchor="middle">NEO4J</text>
+    </g>
+    <text x="552" y="251" text-anchor="end" fill="#FCD34D" font-size="11" font-weight="800" letter-spacing="1">OPEN REPOSITORY</text>
   </g>
 </svg>

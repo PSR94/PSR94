@@ -1,14 +1,20 @@
-<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">ResumeTailor</title><desc id="desc">Local format-preserving resume tailoring built with React, TypeScript, FastAPI, and python-docx.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#112619"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="0" y2="230"><stop stop-color="#86EFAC"/><stop offset="1" stop-color="#16A34A"/></linearGradient></defs>
-  <rect x="1" y="1" width="1198" height="228" rx="24" fill="url(#bg)" stroke="#166534" stroke-width="2"/><rect x="1" y="1" width="8" height="228" rx="4" fill="url(#bar)"/>
+<svg width="580" height="270" viewBox="0 0 580 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ResumeTailor</title><desc id="desc">Local format-preserving resume tailoring.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="580" y2="270"><stop stop-color="#07111F"/><stop offset="1" stop-color="#112619"/></linearGradient></defs>
+  <rect x="1" y="1" width="578" height="268" rx="22" fill="url(#bg)" stroke="#166534" stroke-width="2"/><rect x="1" y="1" width="7" height="268" rx="3.5" fill="#86EFAC"/>
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
-    <rect x="42" y="42" width="72" height="72" rx="20" fill="#16331F" stroke="#16A34A"/><path d="M62 58H87L99 70V101H62V58Z" stroke="#BBF7D0" stroke-width="4" stroke-linejoin="round"/><path d="M87 58V71H99M69 81H91M69 91H86" stroke="#86EFAC" stroke-width="3" stroke-linecap="round"/>
-    <text x="144" y="64" fill="#BBF7D0" font-size="12" font-weight="800" letter-spacing="1.6">LOCAL-FIRST CAREER TOOLING</text>
-    <text x="144" y="104" fill="#F8FAFC" font-size="34" font-weight="760">ResumeTailor</text>
-    <text x="144" y="137" fill="#CBD5E1" font-size="18" font-weight="600">Targeted resume improvements without destroying the original DOCX layout.</text>
-    <text x="144" y="168" fill="#94A3B8" font-size="15">Bullet scoring · prompt bridge · reviewable swaps · formatting preservation</text>
-    <g font-size="12" font-weight="750" fill="#DCFCE7"><text x="144" y="204">REACT</text><text x="206" y="204">TYPESCRIPT</text><text x="310" y="204">FASTAPI</text><text x="386" y="204">PYTHON-DOCX</text><text x="506" y="204">LOCAL-FIRST</text></g>
-    <rect x="1002" y="83" width="150" height="48" rx="24" fill="#16331F" stroke="#16A34A"/><text x="1077" y="113" text-anchor="middle" fill="#DCFCE7" font-size="12" font-weight="800">VIEW REPOSITORY</text>
+    <rect x="28" y="28" width="58" height="58" rx="17" fill="#16331F" stroke="#16A34A"/><path d="M44 40H64L74 50V75H44V40Z" stroke="#BBF7D0" stroke-width="3" stroke-linejoin="round"/><path d="M64 40V51H74M50 59H68M50 68H64" stroke="#86EFAC" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="106" y="47" fill="#BBF7D0" font-size="10" font-weight="800" letter-spacing="1.4">LOCAL-FIRST CAREER TOOL</text>
+    <text x="106" y="77" fill="#F8FAFC" font-size="28" font-weight="760">ResumeTailor</text>
+    <text x="28" y="120" fill="#CBD5E1" font-size="15" font-weight="600">Local resume tailoring that preserves the</text>
+    <text x="28" y="143" fill="#CBD5E1" font-size="15" font-weight="600">original DOCX structure and layout.</text>
+    <text x="28" y="170" fill="#94A3B8" font-size="13">Scoring · reviewed swaps · formatting control</text>
+    <path d="M28 190H552" stroke="#166534"/>
+    <g font-size="10" font-weight="800" fill="#DCFCE7">
+      <rect x="28" y="207" width="60" height="25" rx="12.5" fill="#16331F"/><text x="58" y="224" text-anchor="middle">REACT</text>
+      <rect x="96" y="207" width="88" height="25" rx="12.5" fill="#16331F"/><text x="140" y="224" text-anchor="middle">TYPESCRIPT</text>
+      <rect x="192" y="207" width="96" height="25" rx="12.5" fill="#16331F"/><text x="240" y="224" text-anchor="middle">PYTHON-DOCX</text>
+    </g>
+    <text x="552" y="251" text-anchor="end" fill="#86EFAC" font-size="11" font-weight="800" letter-spacing="1">OPEN REPOSITORY</text>
   </g>
 </svg>
