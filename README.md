@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/PSR94?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-07111F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
   <img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI-8B5CF6?style=for-the-badge" alt="Focus: Agentic AI">
-  <img src="https://img.shields.io/badge/BUILDS-PRODUCTION%20MINDED-0284C7?style=for-the-badge" alt="Production-minded engineering">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-0284C7?style=for-the-badge&logo=github" alt="Open-source contributor">
   <img src="https://komarev.com/ghpvc/?username=PSR94&label=PROFILE%20VIEWS&color=059669&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -16,6 +16,8 @@
 I'm an **AI Software Engineer** who builds full-stack AI products and modern data systems. My work connects the pieces that make AI useful beyond a prototype: reliable data, grounded retrieval, tool-using workflows, human review, evaluation, observability, and a product experience people can actually operate.
 
 I am especially interested in **agentic systems**, **RAG and knowledge platforms**, **AI evaluation and governance**, and **Microsoft Fabric / Azure modernization**.
+
+Alongside my own products, I contribute fixes, tests, documentation, and developer-experience improvements to open-source AI and infrastructure projects.
 
 > My north star: make intelligent systems grounded enough to trust, observable enough to improve, and simple enough to use.
 
@@ -95,16 +97,65 @@ I am especially interested in **agentic systems**, **RAG and knowledge platforms
   </tr>
 </table>
 
-### More builds
+### Full project landscape
 
-| Project | What it explores | Core stack |
+The highlighted repositories above are part of a wider body of work:
+
+| Area | Projects | What connects them |
 |---|---|---|
-| [CALLSIGNAL](https://github.com/PSR94/CALLSIGNAL) | Stateful voice operations, redaction, escalation, QA, and auditable handoffs | Python · FastAPI · SvelteKit · SQLite |
-| [ORION](https://github.com/PSR94/ORION) | AgentOps control plane with traces, PII controls, and human approval gates | TypeScript · FastAPI · PostgreSQL |
-| [HELIOS](https://github.com/PSR94/helios) | Governed NL-to-SQL with a semantic layer, validation, lineage, and trust signals | TypeScript · FastAPI · DuckDB · sqlglot |
-| [CITADEL](https://github.com/PSR94/citadel) | Evidence-first retrieval with graph expansion, strict citations, and eval gates | Python · OpenSearch · Qdrant · Neo4j |
-| [AI Engineer Roadmap 2026](https://psr94.github.io/ai-engineer-roadmap-custom/) | A public, interactive 29-week path from foundations to production AI | React · JavaScript · GitHub Pages |
-| [Evidence Graph RAG](https://github.com/PSR94/knowledge_graph_rag) | Local document ingestion, knowledge extraction, graph retrieval, and cited answers | Python · Streamlit · Neo4j · Ollama |
+| **Agent systems, safety & operations** | [VANGUARD](https://github.com/PSR94/VANGUARD) · [ARGUS](https://github.com/PSR94/ARGUS) · [ORION](https://github.com/PSR94/ORION) · [CALLSIGNAL](https://github.com/PSR94/CALLSIGNAL) | Risk analysis, red teaming, agent observability, human approval, voice operations, and audit trails |
+| **Knowledge & retrieval** | [ContextMesh](https://github.com/PSR94/ContextMesh) · [CITADEL](https://github.com/PSR94/citadel) · [Evidence Graph RAG](https://github.com/PSR94/knowledge_graph_rag) | Hybrid search, graph context, reranking, grounded answers, citations, and retrieval evaluation |
+| **Data, analytics & enterprise workflows** | [FabricShift](https://github.com/PSR94/fabricshift) · [HELIOS](https://github.com/PSR94/helios) · [TransitionIQ](https://github.com/PSR94/TransitionIQ) | Fabric migration, governed NL-to-SQL, semantic models, role-based workflows, and decision support |
+| **Developer & learning products** | [ResumeTailor](https://github.com/PSR94/resume-tailor) · [AI Engineer Roadmap 2026](https://psr94.github.io/ai-engineer-roadmap-custom/) | Local-first career tooling and an interactive path to production AI engineering |
+
+Earlier hands-on work includes a [Streamlit image-to-text demo](https://github.com/PSR94/image2textapp) and [machine-learning notebooks](https://github.com/PSR94/AML) for applied prediction experiments.
+
+## Open-source contributions
+
+I contribute upstream across Python libraries, LLM infrastructure, orchestration frameworks, cloud SDKs, and developer tools. Recent work includes:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pydantic/pydantic">Pydantic</a></h3>
+      <strong>Merged upstream</strong><br><br>
+      Fixed the pre-commit installation command in the contributor guide.
+      <br><br>
+      <a href="https://github.com/pydantic/pydantic/pull/13435">pydantic/pydantic #13435 ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/googleapis/python-aiplatform">Vertex AI Python SDK</a></h3>
+      Multi-turn agent response normalization, safer execution-credential defaults, and prompt version metadata.
+      <br><br>
+      <a href="https://github.com/googleapis/python-aiplatform/pull/6984">#6984</a> ·
+      <a href="https://github.com/googleapis/python-aiplatform/pull/6983">#6983</a> ·
+      <a href="https://github.com/googleapis/python-aiplatform/pull/6975">#6975</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vllm-project/vllm">vLLM</a></h3>
+      Added coverage for parallel-sampling output kinds and documented accelerated ModelOpt load formats.
+      <br><br>
+      <a href="https://github.com/vllm-project/vllm/pull/48062">#48062</a> ·
+      <a href="https://github.com/vllm-project/vllm/pull/48063">#48063</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/microsoft/semantic-kernel">Semantic Kernel</a></h3>
+      Fixed Python function metadata so explicit <code>None</code> defaults are preserved.
+      <br><br>
+      <a href="https://github.com/microsoft/semantic-kernel/pull/14145">microsoft/semantic-kernel #14145 ↗</a>
+    </td>
+  </tr>
+</table>
+
+| Upstream project | Contribution | Pull request |
+|---|---|---|
+| [Altair GraphQL Client](https://github.com/altair-graphql/altair) | Support deeply nested schema types | [#3300](https://github.com/altair-graphql/altair/pull/3300) |
+| [ComparIA](https://github.com/betagouv/ComparIA) | Repair and document the dataset export workflow | [#596](https://github.com/betagouv/ComparIA/pull/596) |
+| [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) | Route the SDK YAPF workflow through project make targets | [#13703](https://github.com/kubeflow/pipelines/pull/13703) |
+
+<sub>Pull-request links show the current review or merge status directly on GitHub.</sub>
 
 ## Engineering toolkit
 
