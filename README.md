@@ -16,27 +16,20 @@
 <h2 align="center">Selected work</h2>
 <p align="center"><sub>Six production-minded systems spanning enterprise workflows, retrieval, model risk, and developer experience.</sub></p>
 
-<a href="https://github.com/PSR94/TransitionIQ"><img width="100%" src="./assets/projects/transitioniq.svg" alt="TransitionIQ — workforce health transition navigator"></a>
+<p align="center">
+  <a href="https://github.com/PSR94/TransitionIQ"><img width="49%" src="./assets/projects/transitioniq.svg" alt="TransitionIQ — workforce health transition navigator"></a>
+  <a href="https://github.com/PSR94/fabricshift"><img width="49%" src="./assets/projects/fabricshift.svg" alt="FabricShift — Microsoft Fabric migration readiness workbench"></a>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/PSR94/VANGUARD"><img width="49%" src="./assets/projects/vanguard.svg" alt="VANGUARD — AI release intelligence and PR risk copilot"></a>
+  <a href="https://github.com/PSR94/ContextMesh"><img width="49%" src="./assets/projects/contextmesh.svg" alt="ContextMesh — private knowledge intelligence platform"></a>
+</p>
 
-<a href="https://github.com/PSR94/fabricshift"><img width="100%" src="./assets/projects/fabricshift.svg" alt="FabricShift — Microsoft Fabric migration readiness workbench"></a>
-
-<br>
-
-<a href="https://github.com/PSR94/VANGUARD"><img width="100%" src="./assets/projects/vanguard.svg" alt="VANGUARD — AI release intelligence and PR risk copilot"></a>
-
-<br>
-
-<a href="https://github.com/PSR94/ContextMesh"><img width="100%" src="./assets/projects/contextmesh.svg" alt="ContextMesh — private knowledge intelligence platform"></a>
-
-<br>
-
-<a href="https://github.com/PSR94/ARGUS"><img width="100%" src="./assets/projects/argus.svg" alt="ARGUS — LLM red-team and model-risk platform"></a>
-
-<br>
-
-<a href="https://github.com/PSR94/resume-tailor"><img width="100%" src="./assets/projects/resumetailor.svg" alt="ResumeTailor — local format-preserving resume tailoring"></a>
+<p align="center">
+  <a href="https://github.com/PSR94/ARGUS"><img width="49%" src="./assets/projects/argus.svg" alt="ARGUS — LLM red-team and model-risk platform"></a>
+  <a href="https://github.com/PSR94/resume-tailor"><img width="49%" src="./assets/projects/resumetailor.svg" alt="ResumeTailor — local format-preserving resume tailoring"></a>
+</p>
 
 <br>
 
