@@ -1,49 +1,91 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pavan Sai R — AI Software Engineer</title>
+  <desc id="desc">A light technical banner showing a path from data through context and agents to useful products.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="background" x1="24" y1="20" x2="1176" y2="340" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF"/>
       <stop offset="0.55" stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#F1F5F9"/>
+      <stop offset="1" stop-color="#F5F3FF"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#14B8A6"/>
-      <stop offset="1" stop-color="#F97316"/>
+    <linearGradient id="line" x1="760" y1="84" x2="1094" y2="274" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284C7"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#059669"/>
     </linearGradient>
+    <linearGradient id="name" x1="72" y1="142" x2="524" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.7" stop-color="#0C4A6E"/>
+      <stop offset="1" stop-color="#5B21B6"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#475569" stroke-opacity="0.07"/>
+    </pattern>
   </defs>
 
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#background)" stroke="#D7DEE8" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#grid)"/>
+  <circle cx="1128" cy="-12" r="190" fill="#8B5CF6" fill-opacity="0.07"/>
+  <circle cx="768" cy="390" r="220" fill="#0EA5E9" fill-opacity="0.07"/>
 
-  <circle cx="1060" cy="42" r="94" fill="#14B8A6" opacity="0.10"/>
-  <circle cx="920" cy="264" r="122" fill="#F97316" opacity="0.08"/>
-  <circle cx="88" cy="36" r="54" fill="#14B8A6" opacity="0.08"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="72" y="62" width="196" height="34" rx="17" fill="#F0F9FF" stroke="#BAE6FD"/>
+    <circle cx="92" cy="79" r="5" fill="#059669"/>
+    <text x="108" y="84" fill="#075985" font-size="14" font-weight="700" letter-spacing="1.7">AI SOFTWARE ENGINEER</text>
 
-  <path d="M0 76H1200" stroke="#E2E8F0" stroke-width="1"/>
-  <path d="M0 156H1200" stroke="#E2E8F0" stroke-width="1"/>
-  <path d="M0 236H1200" stroke="#E2E8F0" stroke-width="1"/>
-  <path d="M180 0V320" stroke="#E2E8F0" stroke-width="1"/>
-  <path d="M420 0V320" stroke="#E2E8F0" stroke-width="1"/>
-  <path d="M660 0V320" stroke="#E2E8F0" stroke-width="1"/>
-  <path d="M900 0V320" stroke="#E2E8F0" stroke-width="1"/>
+    <text x="70" y="174" fill="url(#name)" font-size="58" font-weight="750" letter-spacing="-1.5">Pavan Sai R</text>
+    <text x="72" y="216" fill="#6D28D9" font-size="22" font-weight="600">Data foundations · Retrieval · Agents · AI products</text>
+    <text x="72" y="255" fill="#475569" font-size="18">Building intelligent systems that are grounded, observable,</text>
+    <text x="72" y="282" fill="#475569" font-size="18">and ready for real workflows.</text>
 
-  <rect x="54" y="54" width="76" height="10" rx="5" fill="#14B8A6" opacity="0.9"/>
-  <rect x="54" y="78" width="164" height="10" rx="5" fill="#CBD5E1"/>
-  <rect x="54" y="96" width="128" height="10" rx="5" fill="#CBD5E1"/>
+    <rect x="72" y="310" width="92" height="4" rx="2" fill="#0284C7"/>
+    <rect x="170" y="310" width="58" height="4" rx="2" fill="#7C3AED"/>
+    <rect x="234" y="310" width="34" height="4" rx="2" fill="#059669"/>
+  </g>
 
-  <text x="54" y="168" fill="#0F172A" font-size="54" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Pavan Sai R</text>
-  <text x="54" y="206" fill="#475569" font-size="22" font-weight="500" font-family="Segoe UI, Arial, sans-serif">AI/ML Engineer  •  Agentic AI  •  RAG  •  Full Stack</text>
-  <text x="54" y="246" fill="#334155" font-size="20" font-weight="400" font-family="Segoe UI, Arial, sans-serif">Building grounded AI systems that are observable, useful, and production-ready.</text>
+  <g stroke="url(#line)" stroke-width="2">
+    <path d="M748 180H822"/>
+    <path d="M910 180H984"/>
+    <path d="M1072 180H1112"/>
+    <path d="M786 112L866 164" stroke-opacity="0.55"/>
+    <path d="M866 196L786 248" stroke-opacity="0.55"/>
+    <path d="M1028 134V164" stroke-opacity="0.55"/>
+    <path d="M1028 196V226" stroke-opacity="0.55"/>
+  </g>
 
-  <rect x="820" y="72" width="280" height="42" rx="21" fill="#FFFFFF" stroke="#E2E8F0"/>
-  <text x="852" y="99" fill="#0F172A" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">AGENT SYSTEMS</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g>
+      <circle cx="704" cy="180" r="44" fill="#F0F9FF" stroke="#0284C7" stroke-width="2"/>
+      <circle cx="704" cy="180" r="7" fill="#0284C7"/>
+      <text x="704" y="244" text-anchor="middle" fill="#075985" font-size="13" font-weight="700" letter-spacing="1.4">DATA</text>
+    </g>
+    <g>
+      <circle cx="866" cy="180" r="44" fill="#F5F3FF" stroke="#7C3AED" stroke-width="2"/>
+      <path d="M850 180L862 192L883 167" stroke="#7C3AED" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="866" y="244" text-anchor="middle" fill="#5B21B6" font-size="13" font-weight="700" letter-spacing="1.4">CONTEXT</text>
+    </g>
+    <g>
+      <circle cx="1028" cy="180" r="44" fill="#ECFDF5" stroke="#059669" stroke-width="2"/>
+      <circle cx="1017" cy="174" r="6" fill="#059669"/>
+      <circle cx="1039" cy="174" r="6" fill="#059669"/>
+      <path d="M1016 191H1040" stroke="#059669" stroke-width="3" stroke-linecap="round"/>
+      <text x="1028" y="244" text-anchor="middle" fill="#047857" font-size="13" font-weight="700" letter-spacing="1.4">AGENTS</text>
+    </g>
 
-  <rect x="784" y="128" width="316" height="42" rx="21" fill="#FFFFFF" stroke="#E2E8F0"/>
-  <text x="816" y="155" fill="#0F172A" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">RETRIEVAL AND KNOWLEDGE</text>
+    <g fill="#FFFFFF" stroke="#CBD5E1">
+      <rect x="748" y="84" width="76" height="34" rx="17"/>
+      <rect x="748" y="242" width="76" height="34" rx="17"/>
+      <rect x="988" y="92" width="80" height="34" rx="17"/>
+      <rect x="988" y="234" width="80" height="34" rx="17"/>
+    </g>
+    <g fill="#475569" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.8">
+      <text x="786" y="105">GOVERN</text>
+      <text x="786" y="263">RETRIEVE</text>
+      <text x="1028" y="113">EVALUATE</text>
+      <text x="1028" y="255">OBSERVE</text>
+    </g>
 
-  <rect x="834" y="184" width="266" height="42" rx="21" fill="#FFFFFF" stroke="#E2E8F0"/>
-  <text x="866" y="211" fill="#0F172A" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">FULL-STACK AI</text>
-
-  <rect x="880" y="240" width="220" height="42" rx="21" fill="#FFFFFF" stroke="#E2E8F0"/>
-  <text x="912" y="267" fill="#0F172A" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">CLOUD DELIVERY</text>
-
-  <rect x="54" y="270" width="170" height="6" rx="3" fill="url(#accent)"/>
+    <rect x="1110" y="150" width="62" height="60" rx="16" fill="#FFFFFF" stroke="#94A3B8"/>
+    <path d="M1129 180L1139 190L1156 170" stroke="#0F172A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1141" y="228" text-anchor="middle" fill="#334155" font-size="11" font-weight="700" letter-spacing="0.9">SHIP</text>
+  </g>
 </svg>
