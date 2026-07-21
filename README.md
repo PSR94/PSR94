@@ -13,14 +13,6 @@
 
 <br>
 
-<img width="100%" src="./assets/sections/about.svg" alt="Hello, I'm Pavan — AI Software Engineer building grounded, observable AI products and modern data systems">
-
-<br>
-
-<img width="100%" src="./assets/sections/pillars.svg" alt="How I build: ground the system, control the workflow, and prove the behavior">
-
-<br>
-
 <h2 align="center">Selected work</h2>
 <p align="center"><sub>Six production-minded systems spanning enterprise workflows, retrieval, model risk, and developer experience.</sub></p>
 
